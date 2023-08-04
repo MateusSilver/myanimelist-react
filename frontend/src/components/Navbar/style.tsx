@@ -3,7 +3,6 @@ import { global } from '../../globalStyle';
 
 export const Navbardiv = styled.div `
     display: flex;
-    width: 100%;
     padding: .5em 3em;
     flex-direction: row;
     justify-content: space-between;

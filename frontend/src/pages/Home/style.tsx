@@ -3,10 +3,8 @@ import { global } from '../../globalStyle';
 
 export const HomeDiv = styled.div `
     color: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
+    display: block;
     background-color: ${global.colors.malgray};
-    width: 100vw;
+    width: auto;
     height: 100vh;
 `;
