@@ -2,6 +2,7 @@ export const global = {
     colors: {
         background: '#121212',
         darkgrey: '#222222',
+        grayletters: '#878787',
         midGray: '#181818',
         malgray: '#e0e0e0',
         malBlue: '#2e51a2',
